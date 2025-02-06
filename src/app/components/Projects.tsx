@@ -22,7 +22,7 @@ const projects = [
     icon: ChatBubbleLeftRightIcon,
   },
   {
-    title: "Lavoro VAaaS Landing Page",
+    title: "Lavoro Landing Page",
     description: "Landing page for Lavoro project",
     link: "https://www.lavoro-project.com/",
     icon: BuildingOfficeIcon,
